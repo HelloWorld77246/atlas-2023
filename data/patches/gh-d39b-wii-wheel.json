@@ -1,0 +1,83 @@
+{
+	"id": -1,
+	"name": "Wii Wheel",
+	"description": "The Wii Wheel is an accessory that came packaged with every copy of Mario Kart Wii, though can also be purchased separately. It is also compatible with some driving games, such as Excitebots: Trick Racing and Sonic & Sega All-Stars Racing.\n\nThe player's Wii Remote can be placed in the middle of the plastic unit, allowing for arguably easier control in the game in subject. A trigger is placed on the back of the wheel so that the player can easily press the B button, which is heavily used in Mario Kart Wii. There are holes on both sides of the Wii Wheel - one for the wrist strap to come out of and the other for the sensor stationed in the Wii Remote (otherwise it would cover it up).",
+	"links": {
+		"website": [
+			"https://www.nintendo.com/"
+		],
+		"subreddit": [
+			"nintendo"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1317,
+				330
+			],
+			[
+				-1312,
+				330
+			],
+			[
+				-1312,
+				329
+			],
+			[
+				-1310,
+				329
+			],
+			[
+				-1309,
+				328
+			],
+			[
+				-1308,
+				327
+			],
+			[
+				-1307,
+				325
+			],
+			[
+				-1307,
+				320
+			],
+			[
+				-1309,
+				318
+			],
+			[
+				-1312,
+				315
+			],
+			[
+				-1318,
+				315
+			],
+			[
+				-1321,
+				319
+			],
+			[
+				-1322,
+				320
+			],
+			[
+				-1322,
+				326
+			],
+			[
+				-1318,
+				330
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1314,
+			323
+		]
+	}
+}
